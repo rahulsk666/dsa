@@ -1,2 +1,3 @@
 # dsa
-A repo document the solved dsa problems.
+
+A repo to document the solved dsa problems.
